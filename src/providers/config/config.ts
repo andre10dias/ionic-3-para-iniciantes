@@ -16,7 +16,8 @@ export class ConfigProvider {
     name: "",
     username: ""
   }
-  onstructor() {
+  
+  constructor() {
     console.log('Hello ConfigProvider Provider');
   }
 
